@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brandonli-13
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 📫 Reach me by ziqibrandonli@gmail.com
+# Who am I?
+ I am Brandon Li, a student programmer studying in Singapore.
+# Contact me
+ Reach me by ziqibrandonli@gmail.com
