@@ -1,2 +1,1 @@
-# Contact me
- Reach me by ziqibrandonli@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonfalke-01)](https://github.com/anuraghazra/github-readme-stats)
